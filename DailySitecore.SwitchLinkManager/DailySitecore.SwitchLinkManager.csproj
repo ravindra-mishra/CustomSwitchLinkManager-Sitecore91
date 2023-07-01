@@ -86,6 +86,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\SwitchLinkManager\DailySitecore.SwitchLinkManager.config" />
+    <Content Include="App_Config\Include\MySite1\PublicSite\MySite1.Project.PublicSite.Site.config" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
